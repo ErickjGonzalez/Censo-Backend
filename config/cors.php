@@ -19,8 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://censo-front-end.vercel.app/inicio'],
-    'allowed_origins_patterns' => [],
+'allowed_origins' => ['https://censo-front-end.vercel.app'],    'allowed_origins_patterns' => [],
 
     'allowed_headers' => ['*'],
 
